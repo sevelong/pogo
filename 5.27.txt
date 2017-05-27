@@ -1,46 +1,22 @@
-1.3392,103.7418,J55 Al-Mukminin Mosque 
-1.3415,103.7461,J56 Happy Camel See Saw 
-1.3411,103.7467,J57 Smiley Faces Playground 
-1.3378,103.7531,J58 蓮花宮 
-1.3350,103.7468,J59 String of Pearls 
-1.3335,103.7428,J60 The Loudspeaker 
-1.3314,103.7415,J61 JTC Corporation 
-1.3299,103.7484,J62 UFO Building Dome 
-1.3267,103.7492,J63 Chrome Statue at ICON 
-1.3239,103.7396,J64 Rock Climbing Steps 
-1.3210,103.7389,J65 Coconut Tree 
-1.3200,103.7430,J66 Teban Gardens 
-1.3196,103.7466,J67 Great Pillars 
-1.3177,103.7486,J68 Exercise Corner 
-1.3236,103.7544,J69 Jade Puzzle 
-1.3194,103.7577,J70 Faber Hills 
-1.3226,103.7617,J71 Singapore Buddhist Youth 
-1.3198,103.7630,J72 Clementi View Clock Tower 
-1.3200,103.7647,J73 Onion Pavilion 
-1.3150,103.7577,J74 Interesting Lamp Mural 
-1.3131,103.7600,J75 West Coast Gardens 
-1.3118,103.7592,J76 Indeed Singapore 
-1.3147,103.7647,J77 Clementi Mall Fountain 
-1.3110,103.7652,J78 Clementi Sports Hall 
-1.3053,103.7638,J79 Earth Hour Mural 
-1.3046,103.7620,J80 West Coast Green Tower 
-1.3024,103.7622,J81 Lift Yourself Chair 
-1.2975,103.7631,J82 West Coast Sundial 
-1.2930,103.7620,J83 The Republic of Singapore 
-1.2922,103.7686,J84 Growling Rock Carved Lion 
-1.2948,103.7738,J85 Clock Tower at Computing 
-1.3002,103.7760,J86 Multi Purpose Sports Hall 
-1.2996,103.7741,J87 Raffles Hall Mural 
-1.2997,103.7680,J88 Clementi Woods Sakura 
-1.3057,103.7736,J89 Two Elephants - NUS UTown 
-1.3122,103.7712,J90 Masjid Darussalam 
-1.3163,103.7715,J91 The Clementi 
-1.3213,103.7706,J92 Sunset Way Sign 
-1.3224,103.7703,J93 Big O Courtyard 
-1.3302,103.7728,J94 Home of the Spartans Sculpture 
-1.3330,103.7730,J95 Ngee Ann Poly Submarine 
-1.3325,103.7765,J96 Guitarist on a Chair Mural 
-1.3291,103.7769,J97 SIM University 
-1.3343,103.7811,J98 KTM Station - Bukit Timah 
-1.3364,103.7810,J99 Historical Railway Bridge 
-1.3430,103.7983,J100 Bukit Timah Saddle Club 
+1.2895,103.7891,➤129  Brainforest  0.3km 
+1.2913,103.7853,➤130  Sculpture of Excellence  0.5km 
+1.2964,103.7863,➤131  Block 67 Mural  0.6km 
+1.2990,103.7875,➤132  Fusionopolis  0.3km 
+1.2986,103.7893,➤133  Nexus@one-north  0.2km 
+1.3060,103.7914,➤134  Fernando Botero Horse  0.9km 
+1.3068,103.7937,➤135  Pop Art Gallery at Buona Vista  0.3km 
+1.3119,103.7961,➤136  Holland Village Tile Art  0.6km 
+1.3123,103.7997,➤137  The Cornwall  0.4km 
+1.3171,103.8075,➤138  Farrer Abstract Art Mural  1km 
+1.3177,103.8056,➤139  Catholic Church of St Ignatius  0.2km 
+1.3231,103.7949,➤140  Al-Huda (Coronation) Mosque  1.3km 3mins
+1.3274,103.8016,➤141  Statue of Ong Teng Cheong  0.9km 
+1.3266,103.8023,➤142  Si Yuan Fang Historical Building  0.1km 
+1.3266,103.8044,➤143  Horse of The World  0.2km 
+1.3279,103.8060,➤144  Hillcrest Villa Fountain  0.2km 
+1.3299,103.8167,➤145  Holland Club Statue  1.2km 3mins
+1.3275,103.8135,➤146  Adam Road Presbyterian  0.4km 
+1.3225,103.8151,➤147  Gates to Singapore Botanic Gardens  0.6km 
+1.3205,103.8158,➤148  Love and Peace by Ana Tzarev  0.2km 
+1.3192,103.8154,➤149  Foliage Garden  0.2km 
+1.3161,103.8160,➤150  Singapore National 
